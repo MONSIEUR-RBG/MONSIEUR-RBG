@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MONSIEUR-RBG
-- 👀 I’m interested in Web developping
-- 🌱 I’m currently learning javaScript
+- 👀 I’m interested in Software developpement
+- 🌱 I’m currently learning Spring Boot and Microservices
 - 💞️ I’m looking to collaborate on  Web Projets
 - 📫 How to reach me  eyramrizbangou@gmail.com
 - 😄 Pronouns: funny, determined
