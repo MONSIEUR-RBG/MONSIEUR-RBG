@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MONSIEUR-RBG
-- 👀 I’m interested in Software developpement
+- 👀 I’m interested in backend and mobile developpement
 - 🌱 I’m currently learning Spring Boot and Microservices
-- 💞️ I’m looking to collaborate on  Web Projets
+- 💞️ I’m looking to collaborate on any backend Projets
 - 📫 How to reach me  eyramrizbangou@gmail.com
 - 😄 Pronouns: funny, determined
 - ⚡ Fun fact: writing, gaming
